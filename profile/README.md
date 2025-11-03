@@ -7,4 +7,5 @@
 Our main focus is `groups.zaimea.com`, a system designed to help manage work schedules, hours, and organization more efficiently. Alongside the core platform, Zaimea also provides several open-source Laravel packages, created to solve common development challenges and to support the Laravel community.
 
 - [Documentation](https://zaimea.com/docs).
+- [Open-Source Packages](http://github.com/zaimealabs).
 - [Groups - Work in progress](https://zaimea.com/groups).
